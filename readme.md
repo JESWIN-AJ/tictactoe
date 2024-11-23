@@ -13,3 +13,6 @@ Technologies Used
 HTML - For the structure of the game board
 CSS - For styling the game board and layout
 JavaScript - For the game logic and player interactions
+
+
+to run this project you need to set it up in youur local machine
